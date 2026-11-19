@@ -6,7 +6,7 @@
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
       <outline text="19th November" type="calendarDay" date="2026-11-19">
-        <outline text="Cinderella's lunch" created="Thu, 19 Nov 2026 17:00:19 GMT">
+        <outline text="Goldilocks' lunch" created="Thu, 19 Nov 2026 17:00:19 GMT">
           <outline text="That's right, it's [porridge: A blogging platform](https://github.com/alexjj/porridge). Now what?" created="Thu, 19 Nov 2026 17:00:43 GMT"/>
         </outline>
       </outline>
