@@ -6,6 +6,9 @@
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
       <outline text="19th November" type="calendarDay" date="2026-11-19">
+        <outline text="A new leaf" created="Thu, 19 Nov 2026 17:37:57 GMT">
+          <outline text="![Me holding a giant leaf I found while walking Alice this morning](/images/2026/11/20261119-00547-19173934.webp)" created="Thu, 19 Nov 2026 17:38:02 GMT"/>
+        </outline>
         <outline text="What did I write?" created="Thu, 19 Nov 2026 17:07:23 GMT">
           <outline text="![Missing pages](/images/2026/11/mead-pad-19170807.webp)" created="Thu, 19 Nov 2026 17:08:33 GMT"/>
           <outline text="Probably something brilliant. Gone now, though ¯\_(ツ)_/¯"/>
