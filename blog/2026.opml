@@ -5,6 +5,10 @@
   </head>
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
+      <outline text="20th November" type="calendarDay" date="2026-11-20">
+        <outline text="![Self-portrait with the 24+ year old Canon EOS-1Ds](/images/2026/11/20261120-00581-20160018.webp)" created="Fri, 20 Nov 2026 15:59:47 GMT"/>
+        <outline text="It's a new day and porridge knows it. Clicking a button to have a site rendered for me without ongoing hassle is kind of nice." created="Fri, 20 Nov 2026 15:58:23 GMT"/>
+      </outline>
       <outline text="19th November" type="calendarDay" date="2026-11-19">
         <outline text="[Paul Ford (NYT)](https://www.nytimes.com/2026/10/30/opinion/anthropic-ipo-ai.html)" created="Thu, 19 Nov 2026 20:21:56 GMT">
           <outline text="&quot;As much as I love computers, democracy is the more important technology.&quot;"/>
