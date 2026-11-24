@@ -1,6 +1,6 @@
 # My porridge blog
 
-This repository is a [porridge](https://github.com/alexjj/porridge) blog: an
+This repository is a [porridge](https://github.com/jackbaty/porridge) blog: an
 outliner for writing a daily blog. You write in the porridge editor; your posts
 are kept here as plain files, and GitHub Actions publishes them as a website on
 GitHub Pages. There's nothing to host or install.
