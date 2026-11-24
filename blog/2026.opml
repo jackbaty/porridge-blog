@@ -5,6 +5,9 @@
   </head>
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
+      <outline text="24th November" type="calendarDay" date="2026-11-24">
+        <outline text="Sometimes I just want to type and click publish" created="Tue, 24 Nov 2026 10:54:51 GMT"/>
+      </outline>
       <outline text="22nd November" type="calendarDay" date="2026-11-22">
         <outline text="The anticipation of the new camera arriving is blocking my view of everything this morning. " created="Sun, 22 Nov 2026 10:00:59 GMT"/>
       </outline>
