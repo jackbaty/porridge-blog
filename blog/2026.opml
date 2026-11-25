@@ -6,6 +6,10 @@
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
       <outline text="25th November" type="calendarDay" date="2026-11-25">
+        <outline text="Dull Gray" created="Wed, 25 Nov 2026 13:29:14 GMT">
+          <outline text="&gt; ...the dull grey of what everyone at a particular period might repeat (Foucault)" created="Wed, 25 Nov 2026 13:29:26 GMT"/>
+          <outline text="This is how I feel about my Mastodon feed"/>
+        </outline>
         <outline text="I am never going to learn how to stay away from screens. My phone isn't a problem, but the Mac on my desk absorbs nearly all of my time. It's not good for me, but no matter where I am or what I'm doing, I just want to get back to the computer." created="Wed, 25 Nov 2026 12:53:53 GMT"/>
       </outline>
       <outline text="24th November" type="calendarDay" date="2026-11-24">
