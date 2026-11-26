@@ -6,6 +6,7 @@
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
       <outline text="26th November" type="calendarDay" date="2026-11-26">
+        <outline text="This is a test from the Framework to see if I can post here from different machines. It should be a matter of connecting with a token and reloading. Seems to have worked. If you're reading this, it has." created="Thu, 26 Nov 2026 13:04:09 GMT"/>
         <outline text="It occurred to me that I have no idea how [Porridge](https://github.com/alexjj/porridge) works. Do I care? I mean, I don't know how my phone works. Or GPS. Or, hell, my microwave. Does it matter?" created="Thu, 26 Nov 2026 11:07:55 GMT"/>
       </outline>
       <outline text="25th November" type="calendarDay" date="2026-11-25">
