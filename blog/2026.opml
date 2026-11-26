@@ -5,6 +5,9 @@
   </head>
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
+      <outline text="26th November" type="calendarDay" date="2026-11-26">
+        <outline text="It occurred to me that I have no idea how [Porridge](https://github.com/alexjj/porridge) works. Do I care? I mean, I don't know how my phone works. Or GPS. Or, hell, my microwave. Does it matter?" created="Thu, 26 Nov 2026 11:07:55 GMT"/>
+      </outline>
       <outline text="25th November" type="calendarDay" date="2026-11-25">
         <outline text="Dull Grey" created="Wed, 25 Nov 2026 13:29:14 GMT">
           <outline text="&gt; ...the dull grey of what everyone at a particular period might repeat -- Foucault" created="Wed, 25 Nov 2026 13:29:26 GMT"/>
