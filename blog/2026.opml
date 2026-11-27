@@ -6,7 +6,9 @@
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
       <outline text="27th November" type="calendarDay" date="2026-11-27">
-        <outline text="Daily notes in TheBrain ![Here's my brain today](/images/2026/11/thebrain-full-27155838.webp)" created="Fri, 27 Nov 2026 15:58:02 GMT"/>
+        <outline text="Daily notes in TheBrain ![Here's my brain today](/images/2026/11/thebrain-full-27155838.webp)" created="Fri, 27 Nov 2026 15:58:02 GMT">
+          <outline text="I love this thing. The recent addition of a local API has really made things easy. I can put _everything_ in there." created="Fri, 27 Nov 2026 16:00:00 GMT"/>
+        </outline>
         <outline text="I started a &quot;Journal&quot; over on the new (to me) [Wordwrap.lol](https://wordwrap.lol) from the [omg.lol](https://omg.lol) folks. Because I'm unlikely to commit, I kept it at their subdomain: [jbaty.wordwrap.lol](https://jbaty.wordwrap.lol). I don't know what it's for. ¯\_(ツ)_/¯" created="Fri, 27 Nov 2026 15:01:20 GMT"/>
       </outline>
       <outline text="26th November" type="calendarDay" date="2026-11-26">
