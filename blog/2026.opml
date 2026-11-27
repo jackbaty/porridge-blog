@@ -6,7 +6,7 @@
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
       <outline text="27th November" type="calendarDay" date="2026-11-27">
-        <outline text="I started a &quot;Journal&quot; over on the new (to me) [Wordwrap.lol](https://wordwrap.lol) from the [omg.lol](https://omg.lol) folks. Because I'm unlikely to commit, I kept it at their subdomain: [jbaty.wordwrap.lol](jbaty.wordwrap.lol). I don't know what it's for. ¯\_(ツ)_/¯" created="Fri, 27 Nov 2026 15:01:20 GMT"/>
+        <outline text="I started a &quot;Journal&quot; over on the new (to me) [Wordwrap.lol](https://wordwrap.lol) from the [omg.lol](https://omg.lol) folks. Because I'm unlikely to commit, I kept it at their subdomain: [jbaty.wordwrap.lol](https://jbaty.wordwrap.lol). I don't know what it's for. ¯\_(ツ)_/¯" created="Fri, 27 Nov 2026 15:01:20 GMT"/>
       </outline>
       <outline text="26th November" type="calendarDay" date="2026-11-26">
         <outline text="Playing with [orgstar](https://krz.sh/apps/orgstar/), a Mac/iPhone app for org mode files. It's a little buggy, but the idea is spot on. We need more of this kind of thing." created="Thu, 26 Nov 2026 21:14:04 GMT"/>
