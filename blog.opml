@@ -8,9 +8,9 @@
     <porridge:rssItems>25</porridge:rssItems>
     <porridge:language>en</porridge:language>
     <description>Daily notes. Most days.</description>
-    <porridge:theme>rose-pine</porridge:theme>
-    <porridge:navLink url="https://baty.net" navOrder="30">Blog</porridge:navLink>
+    <porridge:navLink url="https://baty.net" navOrder="30">Baty.net</porridge:navLink>
     <porridge:archiveNavOrder>20</porridge:archiveNavOrder>
+    <porridge:icon>🗓️</porridge:icon>
   </head>
   <body>
     <outline text="2026" type="include" url="blog/2026.opml"/>
