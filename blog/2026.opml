@@ -5,6 +5,9 @@
   </head>
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
+      <outline text="28th November" type="calendarDay" date="2026-11-28">
+        <outline text="Oh dear, I have _waaay_ too many ways to do things." created="Sat, 28 Nov 2026 11:39:11 GMT"/>
+      </outline>
       <outline text="27th November" type="calendarDay" date="2026-11-27">
         <outline text="Daily notes in TheBrain" created="Fri, 27 Nov 2026 15:58:02 GMT">
           <outline text="![Here's my brain today](/images/2026/11/thebrain-full-27155838.webp)"/>
@@ -19,7 +22,8 @@
       </outline>
       <outline text="25th November" type="calendarDay" date="2026-11-25">
         <outline text="Dull Grey" created="Wed, 25 Nov 2026 13:29:14 GMT">
-          <outline text="&gt; ...the dull grey of what everyone at a particular period might repeat -- Foucault" created="Wed, 25 Nov 2026 13:29:26 GMT"/>
+          <outline text="&gt; ...the dull grey of what everyone at a particular period might repeat" created="Wed, 25 Nov 2026 13:29:26 GMT"/>
+          <outline text="-- Foucault"/>
           <outline text="This is how I feel about my Mastodon feed"/>
         </outline>
         <outline text="I am never going to learn how to stay away from screens. My phone isn't a problem, but the Mac on my desk absorbs nearly all of my time. It's not good for me, but no matter where I am or what I'm doing, I just want to get back to the computer." created="Wed, 25 Nov 2026 12:53:53 GMT"/>
@@ -39,7 +43,7 @@
       </outline>
       <outline text="19th November" type="calendarDay" date="2026-11-19">
         <outline text="[Paul Ford (NYT)](https://www.nytimes.com/2026/10/30/opinion/anthropic-ipo-ai.html)" created="Thu, 19 Nov 2026 20:21:56 GMT">
-          <outline text="&quot;As much as I love computers, democracy is the more important technology.&quot;"/>
+          <outline text="&gt; &quot;As much as I love computers, democracy is the more important technology.&quot;"/>
         </outline>
         <outline text="A new leaf" created="Thu, 19 Nov 2026 17:37:57 GMT">
           <outline text="![Me holding a giant leaf I found while walking Alice this morning](/images/2026/11/20261119-00547-19173934.webp)" created="Thu, 19 Nov 2026 17:38:02 GMT"/>
